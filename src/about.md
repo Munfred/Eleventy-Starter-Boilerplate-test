@@ -1,7 +1,7 @@
 ---
 title: About
 description: Page not found
-permalink: about.md
+permalink: about.html
 eleventyExcludeFromCollections: true
 ---
 
